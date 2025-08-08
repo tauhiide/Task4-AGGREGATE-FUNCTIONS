@@ -23,11 +23,17 @@ SQL Queries
 In task4.sql, I included six queries:
 
 View All Employees: Displays all records to verify the dataset.
+
 Total Salary by Department: Uses SUM(salary) to calculate total salaries, grouped by department.
+
 Average Salary by Department: Computes AVG(salary) with ROUND for readability, grouped by department.
+
 Number of Employees by Department: Counts employees with COUNT(employee_id), grouped by department.
+
 High Salary Departments: Uses AVG(salary) with HAVING to filter departments with average salaries above 65000.
+
 Employees by Department and Hire Year: Counts employees by department and YEAR(joining_date) for multi-column grouping.
+
 Salary Percentage by Department: Calculates each department’s share of total salary using SUM and a subquery, rounded for clarity.
 
 These queries align with the task hints:
