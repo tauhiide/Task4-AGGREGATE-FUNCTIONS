@@ -68,13 +68,13 @@ Run task4.sql to create the table, insert data, and execute the queries.
 Output: Results display in MySQL Workbench’s query output pane.
 
 
-#Why This Submission Stands Out
+#Why My Submission Stands Out
 
-Personal Effort: My detailed comments in task4.sql explain each query as if I wrote them, showing my thought process.
+1) My detailed comments in task4.sql explain each query as if I wrote them, showing my thought process.
 
-Complete Coverage: The queries fully address the task hints, with an extra analytical query (salary percentage) for deeper insights.
+2) The queries fully address the task hints, with an extra analytical query (salary percentage) for deeper insights.
 
-Clean Code: The SQL is well-structured, with DECIMAL(10,2) for precise salary calculations and DATE for joining_date.
+3) The SQL is well-structured, with DECIMAL(10,2) for precise salary calculations and DATE for joining_date.
 
-Professional Setup: The repository is organized, with a clear README file.
+
 
